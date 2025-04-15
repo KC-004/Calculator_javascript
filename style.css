@@ -47,7 +47,7 @@ body {
     grid-column: 1/ span 4;
     justify-content: end;
     align-items: center;
-    width: 319.6px;
+    max-width: 319.6px;
 }
 .display-content {
     font-size: 3.5rem;
